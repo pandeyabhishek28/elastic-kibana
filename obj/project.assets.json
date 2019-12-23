@@ -2356,11 +2356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D-Drive\\Elastic Search\\elastic-kibana\\src\\elastic-kibana.csproj",
+      "projectUniqueName": "C:\\D-Drive\\Elastic Search\\elastic-kibana\\elastic-kibana.csproj",
       "projectName": "elastic-kibana",
-      "projectPath": "C:\\D-Drive\\Elastic Search\\elastic-kibana\\src\\elastic-kibana.csproj",
+      "projectPath": "C:\\D-Drive\\Elastic Search\\elastic-kibana\\elastic-kibana.csproj",
       "packagesPath": "C:\\Users\\abhishekp\\.nuget\\packages\\",
-      "outputPath": "C:\\D-Drive\\Elastic Search\\elastic-kibana\\src\\obj\\",
+      "outputPath": "C:\\D-Drive\\Elastic Search\\elastic-kibana\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
