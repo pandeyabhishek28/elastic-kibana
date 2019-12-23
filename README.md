@@ -1,6 +1,7 @@
 # elastic-kibana
 elastic-kibana 
-Logging Custom Messages from an MVC Controller
+
+An Example about how to add logging from an MVC Controller
 Since we specified that we want to log messages with a log level of information or higher, 
 a number of information messages were logged by default.
 But what if we want to log our own messages? Thankfully, this is pretty easy to do. It 'll log a message in the HomeController.
